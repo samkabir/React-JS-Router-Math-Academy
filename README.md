@@ -1,6 +1,6 @@
 # Excelsior Math Academy
 
-Live Website [Excelsior Math Academy](https://samkabir-react-mathacademy.netlify.app//)
+Live Website [Excelsior Math Academy](https://samkabir-react-mathacademy.netlify.app/)
 
 * This Website shows 4 of its services in its homepage
 * it details out about its company in about us page
