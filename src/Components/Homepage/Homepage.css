@@ -1,0 +1,13 @@
+.services-section{
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+    
+}
+.services{
+    display: flex;
+    flex-direction: row;
+    align-content: space-around;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 50px;
+}

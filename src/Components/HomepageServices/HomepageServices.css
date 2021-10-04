@@ -1,0 +1,9 @@
+.servicescard{
+    padding: 10px 60px;
+    margin: 5px 20px;
+}
+.card{
+    box-shadow: 2px 0px 24px black;
+    padding: 30px;
+    min-width: 116%;
+}
